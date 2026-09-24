@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="imagens/ProximaEtapa.png" alt="Próxima Etapa" border="0" width="300">
-- (Adicionar demais integrantes)
+  
+- Julia Gomes Basilio, Luis Felipe Trindade, Maria Eduarda Barberino Olo, Davi Lourenço Bigotto
 
 ## Professores Orientadores
 
@@ -13,10 +14,10 @@
 
 ---
 
-## Descrição
-
 <p align="center">
-  <img src="imagens/ProximaEtapa.png" alt="Próxima Etapaa</strong> - Aplicativo Mobile
+<img src="imagens/ProximaEtapa.png" alt="App Próxima Etapa" border="0" width="500">
+<br>
+<strong>ProximaEtapa</strong> - ProximaEtapa
 </p>
 
 <p align="justify">
