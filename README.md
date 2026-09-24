@@ -1,7 +1,7 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-  <img src="imagens/ProximaEtapa.png" alt="Próxima Etapa" border="0" width="300">
+  <img src="imagens/FecapLogo.png" alt="Próxima Etapa" border="0" width="300">
   
 - Julia Gomes Basilio, Luis Felipe Trindade, Maria Eduarda Barberino Olo, Davi Lourenço Bigotto
 
